@@ -13,10 +13,11 @@ def ban():
 	if os.name == 'nt':os.system('cls')
 	else:os.system('clear')
 	print("""
-	╔╗╔┌─┐┌┬┐┌─┐  ╔═╗┌─┐┌┐┌┌─┐┬─┐┌─┐┌┬┐┌─┐┬─┐
-	║║║├─┤│││├┤   ║ ╦├┤ │││├┤ ├┬┘├─┤ │ │ │├┬┘
-	╝╚╝┴ ┴┴ ┴└─┘  ╚═╝└─┘┘└┘└─┘┴└─┴ ┴ ┴ └─┘┴└─
-	Buy me a Es Teh? https://trakteer.id/fowawaz
+╔╗╔┌─┐┌┬┐┌─┐  ╔═╗┌─┐┌┐┌┌─┐┬─┐┌─┐┌┬┐┌─┐┬─┐
+║║║├─┤│││├┤   ║ ╦├┤ │││├┤ ├┬┘├─┤ │ │ │├┬┘
+╝╚╝┴ ┴┴ ┴└─┘  ╚═╝└─┘┘└┘└─┘┴└─┴ ┴ ┴ └─┘┴└─
+[-] powered by https://www.name-generator.org.uk
+[-] buy me es teh? https://trakteer.id/fowawaz
 		""")
 ban()
 try:
